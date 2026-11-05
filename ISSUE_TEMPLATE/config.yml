@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How todone works
+    url: https://todone.today/docs
+    about: The guide to lists, stickers, the calendar, teams and integrations.
+  - name: Report a security problem
+    url: https://github.com/todone-today/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not as an issue.

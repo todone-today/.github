@@ -1,0 +1,34 @@
+name: Bug report
+description: Something in todone doesn't work as it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what you saw instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a list
+        2. Drag a note onto "Tomorrow"
+        3. ...
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where
+      options:
+        - todone.today
+        - Self-hosted
+        - Running locally
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Chrome 140 on macOS, Safari on iPhone…

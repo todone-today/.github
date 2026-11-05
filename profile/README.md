@@ -2,6 +2,10 @@
 
 **[todone.today](https://todone.today)** · An open-source todo app: sticky notes you drag onto a day, a calendar to plan the week on, and teams to share it with. It works offline.
 
+[![todone: a list as sticky notes, with stickers for when, how long and priority](todone.jpg)](https://todone.today/demo)
+
+**[Try the demo](https://todone.today/demo)** (no account) · [Guide](https://todone.today/docs) · [Changelog](https://todone.today/changelog) · [Status](https://todone.today/status)
+
 - Lists of sticky notes; drop one note on another to make it a step
 - Stickers for when, how long, priority and repeats
 - Day, week, month and year calendar; drag tasks onto a time and stretch them to fit
